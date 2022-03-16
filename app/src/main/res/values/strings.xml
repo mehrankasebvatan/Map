@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Map</string>
+    <string name="start1">نقطه شروع مبدا</string>
+    <string name="start2">نقطه شروع مقصد</string>
+    <string name="end1">نقطه پایان مبدا</string>
+    <string name="end2">نقطه پایان مقصد</string>
+    <string name="line">رسم خط با ۴ ورودی</string>
+    <string name="line_loc">رسم خط از لوکیشن به نقطه</string>
+    <string name="my_loc">دریافت لوکیشن کاربر</string>
+</resources>
